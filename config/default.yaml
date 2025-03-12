@@ -1,0 +1,8 @@
+bias_threshold: 0.7
+ethics_threshold: 0.7
+hallucination_threshold: 0.7
+model_config:
+  max_length: 100
+  temperature: 0.1
+safety_threshold: 0.9
+test_sample_size: 50
