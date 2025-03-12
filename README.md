@@ -60,8 +60,6 @@ python guardrail_pro.py
 1. Load a model (e.g., GPT-2 from Hugging Face).
 2. Run a full audit.
 3. Review the results:
-   - **Radar Chart**: Visual overview of test scores vs. thresholds.
-   - **Bar Chart**: Detailed breakdown of performance across categories.
    - **Recommendations**: Actionable steps to improve model safety.
 4. Save the report for future reference.
 
