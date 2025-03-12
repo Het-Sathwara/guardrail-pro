@@ -17,7 +17,7 @@ GuardRail Pro is an enterprise-grade AI safety and evaluation framework designed
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Het-Sathwara/guardrail.git
+   git clone https://github.com/Het-Sathwara/guardrail-pro.git
    cd guardrail
    ```
 
